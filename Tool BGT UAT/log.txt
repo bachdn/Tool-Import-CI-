@@ -1,0 +1,12 @@
+	 ----------------- Truy cập phần mềm - Date Time: 2017-06-14 09:26:40 AM-----------------
+Đăng nhập CA thành công
+Đăng nhập CA Service Desk thành công!
+Tách file dữ liệu thành công. Kiểm tra dữ liệu đã tách tại thư mục: 
+E:\DieuVT\Test\9_26_53_AM
+Import CI thành công
+	 ----------------- Đăng xuất hệ thống - Date Time: 2017-06-14 09:30:11 AM-----------------
+	 ----------------- Truy cập phần mềm - Date Time: 2017-06-14 16:29:22 PM-----------------
+Đăng nhập CA thành công
+Đăng nhập CA Service Desk thành công!
+Import CI thành công
+	 ----------------- Đăng xuất hệ thống - Date Time: 2017-06-14 16:29:49 PM-----------------

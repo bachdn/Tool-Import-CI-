@@ -1,0 +1,96 @@
+D:\2017\BGT\Tool\Import_CMDB\Import_CMDB\bin\Debug\Import_CMDB.exe.config
+D:\2017\BGT\Tool\Import_CMDB\Import_CMDB\bin\Debug\Import_CMDB.exe
+D:\2017\BGT\Tool\Import_CMDB\Import_CMDB\bin\Debug\Import_CMDB.pdb
+D:\2017\BGT\Tool\Import_CMDB\Import_CMDB\obj\x86\Debug\Import_CMDB.frmImport.resources
+D:\2017\BGT\Tool\Import_CMDB\Import_CMDB\obj\x86\Debug\Import_CMDB.Properties.Resources.resources
+D:\2017\BGT\Tool\Import_CMDB\Import_CMDB\obj\x86\Debug\Import_CMDB.csproj.GenerateResource.Cache
+D:\2017\BGT\Tool\Import_CMDB\Import_CMDB\obj\x86\Debug\Import_CMDB.exe
+D:\2017\BGT\Tool\Import_CMDB\Import_CMDB\obj\x86\Debug\Import_CMDB.pdb
+D:\2017\BGT\Tool\Import_CMDB\Import_CMDB\obj\x86\Debug\Import_CMDB.csprojResolveAssemblyReference.cache
+D:\2017\BGT\dieuvt\Import_CMDB\Import_CMDB\bin\Debug\Import_CMDB.exe.config
+D:\2017\BGT\dieuvt\Import_CMDB\Import_CMDB\obj\x86\Debug\Import_CMDB.exe
+D:\2017\BGT\dieuvt\Import_CMDB\Import_CMDB\obj\x86\Debug\Import_CMDB.pdb
+D:\2017\BGT\dieuvt\Import_CMDB\Import_CMDB\bin\Debug\Import_CMDB.exe
+D:\2017\BGT\dieuvt\Import_CMDB\Import_CMDB\bin\Debug\Import_CMDB.pdb
+D:\2017\BGT\dieuvt\Import_CMDB\Import_CMDB\obj\x86\Debug\Import_CMDB.csprojResolveAssemblyReference.cache
+D:\2017\BGT\dieuvt\Import_CMDB\Import_CMDB\obj\x86\Debug\Import_CMDB.frmImport.resources
+D:\2017\BGT\dieuvt\Import_CMDB\Import_CMDB\obj\x86\Debug\Import_CMDB.Properties.Resources.resources
+D:\2017\BGT\dieuvt\Import_CMDB\Import_CMDB\obj\x86\Debug\Import_CMDB.csproj.GenerateResource.Cache
+D:\2017\Tool\Import_CMDB\Import_CMDB\bin\Debug\Import_CMDB.exe.config
+D:\2017\Tool\Import_CMDB\Import_CMDB\obj\x86\Debug\Import_CMDB.exe
+D:\2017\Tool\Import_CMDB\Import_CMDB\obj\x86\Debug\Import_CMDB.pdb
+D:\2017\Tool\Import_CMDB\Import_CMDB\bin\Debug\Import_CMDB.exe
+D:\2017\Tool\Import_CMDB\Import_CMDB\bin\Debug\Import_CMDB.pdb
+D:\2017\Tool\Import_CMDB\Import_CMDB\obj\x86\Debug\Import_CMDB.csprojResolveAssemblyReference.cache
+D:\2017\Tool\Import_CMDB\Import_CMDB\obj\x86\Debug\Import_CMDB.frmImport.resources
+D:\2017\Tool\Import_CMDB\Import_CMDB\obj\x86\Debug\Import_CMDB.Properties.Resources.resources
+D:\2017\Tool\Import_CMDB\Import_CMDB\obj\x86\Debug\Import_CMDB.csproj.GenerateResource.Cache
+D:\BGT\05_06_2017\Import_CMDB\Import_CMDB\bin\Debug\Import_CMDB.exe.config
+D:\BGT\05_06_2017\Import_CMDB\Import_CMDB\obj\x86\Debug\Import_CMDB.exe
+D:\BGT\05_06_2017\Import_CMDB\Import_CMDB\obj\x86\Debug\Import_CMDB.pdb
+D:\BGT\05_06_2017\Import_CMDB\Import_CMDB\bin\Debug\Import_CMDB.exe
+D:\BGT\05_06_2017\Import_CMDB\Import_CMDB\bin\Debug\Import_CMDB.pdb
+D:\BGT\05_06_2017\Import_CMDB\Import_CMDB\obj\x86\Debug\Import_CMDB.frmImport.resources
+D:\BGT\05_06_2017\Import_CMDB\Import_CMDB\obj\x86\Debug\Import_CMDB.Properties.Resources.resources
+D:\BGT\05_06_2017\Import_CMDB\Import_CMDB\obj\x86\Debug\Import_CMDB.csproj.GenerateResource.Cache
+C:\Users\DieuVT\Desktop\Import_CMDB\Import_CMDB\bin\Debug\Import_CMDB.exe.config
+C:\Users\DieuVT\Desktop\Import_CMDB\Import_CMDB\obj\x86\Debug\Import_CMDB.exe
+C:\Users\DieuVT\Desktop\Import_CMDB\Import_CMDB\obj\x86\Debug\Import_CMDB.pdb
+C:\Users\DieuVT\Desktop\Import_CMDB\Import_CMDB\bin\Debug\Import_CMDB.exe
+C:\Users\DieuVT\Desktop\Import_CMDB\Import_CMDB\bin\Debug\Import_CMDB.pdb
+C:\Users\DieuVT\Desktop\Import_CMDB\Import_CMDB\obj\x86\Debug\Import_CMDB.csprojResolveAssemblyReference.cache
+C:\Users\DieuVT\Desktop\Import_CMDB\Import_CMDB\obj\x86\Debug\Import_CMDB.frmImport.resources
+C:\Users\DieuVT\Desktop\Import_CMDB\Import_CMDB\obj\x86\Debug\Import_CMDB.Properties.Resources.resources
+C:\Users\DieuVT\Desktop\Import_CMDB\Import_CMDB\obj\x86\Debug\Import_CMDB.csproj.GenerateResource.Cache
+E:\DieuVT\Tool_BGT\Import_CMDB\Import_CMDB\bin\Debug\Import_CMDB.exe.config
+E:\DieuVT\Tool_BGT\Import_CMDB\Import_CMDB\obj\x86\Debug\Import_CMDB.exe
+E:\DieuVT\Tool_BGT\Import_CMDB\Import_CMDB\obj\x86\Debug\Import_CMDB.pdb
+E:\DieuVT\Tool_BGT\Import_CMDB\Import_CMDB\bin\Debug\Import_CMDB.exe
+E:\DieuVT\Tool_BGT\Import_CMDB\Import_CMDB\bin\Debug\Import_CMDB.pdb
+E:\DieuVT\Tool_BGT\Import_CMDB\Import_CMDB\obj\x86\Debug\Import_CMDB.frmImport.resources
+E:\DieuVT\Tool_BGT\Import_CMDB\Import_CMDB\obj\x86\Debug\Import_CMDB.Properties.Resources.resources
+E:\DieuVT\Tool_BGT\Import_CMDB\Import_CMDB\obj\x86\Debug\Import_CMDB.csproj.GenerateResource.Cache
+E:\DieuVT\Test\Tool_BGT\Import_CMDB\Import_CMDB\bin\Debug\Import_CMDB.exe.config
+E:\DieuVT\Test\Tool_BGT\Import_CMDB\Import_CMDB\obj\x86\Debug\Import_CMDB.exe
+E:\DieuVT\Test\Tool_BGT\Import_CMDB\Import_CMDB\obj\x86\Debug\Import_CMDB.pdb
+E:\DieuVT\Test\Tool_BGT\Import_CMDB\Import_CMDB\bin\Debug\Import_CMDB.exe
+E:\DieuVT\Test\Tool_BGT\Import_CMDB\Import_CMDB\bin\Debug\Import_CMDB.pdb
+E:\DieuVT\Test\Tool_BGT\Import_CMDB\Import_CMDB\obj\x86\Debug\Import_CMDB.frmImport.resources
+E:\DieuVT\Test\Tool_BGT\Import_CMDB\Import_CMDB\obj\x86\Debug\Import_CMDB.Properties.Resources.resources
+E:\DieuVT\Test\Tool_BGT\Import_CMDB\Import_CMDB\obj\x86\Debug\Import_CMDB.csproj.GenerateResource.Cache
+D:\2017\BGT\dieuvt\Tool BGT UAT\Tool_BGT\Import_CMDB\Import_CMDB\bin\Debug\Import_CMDB.exe.config
+D:\2017\BGT\dieuvt\Tool BGT UAT\Tool_BGT\Import_CMDB\Import_CMDB\obj\x86\Debug\Import_CMDB.exe
+D:\2017\BGT\dieuvt\Tool BGT UAT\Tool_BGT\Import_CMDB\Import_CMDB\obj\x86\Debug\Import_CMDB.pdb
+D:\2017\BGT\dieuvt\Tool BGT UAT\Tool_BGT\Import_CMDB\Import_CMDB\bin\Debug\Import_CMDB.exe
+D:\2017\BGT\dieuvt\Tool BGT UAT\Tool_BGT\Import_CMDB\Import_CMDB\bin\Debug\Import_CMDB.pdb
+D:\2017\BGT\dieuvt\Tool BGT UAT\Tool_BGT\Import_CMDB\Import_CMDB\obj\x86\Debug\Import_CMDB.frmImport.resources
+D:\2017\BGT\dieuvt\Tool BGT UAT\Tool_BGT\Import_CMDB\Import_CMDB\obj\x86\Debug\Import_CMDB.Properties.Resources.resources
+D:\2017\BGT\dieuvt\Tool BGT UAT\Tool_BGT\Import_CMDB\Import_CMDB\obj\x86\Debug\Import_CMDB.csproj.GenerateResource.Cache
+D:\2017\BGT\dieuvt\Tool BGT UAT\Tool_BGT\Import_CMDB\Import_CMDB\obj\x86\Debug\Import_CMDB.csprojResolveAssemblyReference.cache
+E:\DieuVT\Tool BGT_V1.0\Tool BGT UAT\Tool_BGT\Import_CMDB\Import_CMDB\obj\x86\Debug\Import_CMDB.Properties.Resources.resources
+E:\DieuVT\Tool BGT_V1.0\Tool BGT UAT\Tool_BGT\Import_CMDB\Import_CMDB\obj\x86\Debug\Import_CMDB.csproj.GenerateResource.Cache
+E:\DieuVT\Tool BGT_V1.1\Tool BGT UAT\Tool_BGT\Import_CMDB\Import_CMDB\bin\Debug\Import_CMDB.exe.config
+E:\DieuVT\Tool BGT_V1.1\Tool BGT UAT\Tool_BGT\Import_CMDB\Import_CMDB\bin\Debug\Import_CMDB.exe
+E:\DieuVT\Tool BGT_V1.1\Tool BGT UAT\Tool_BGT\Import_CMDB\Import_CMDB\bin\Debug\Import_CMDB.pdb
+E:\DieuVT\Tool BGT_V1.1\Tool BGT UAT\Tool_BGT\Import_CMDB\Import_CMDB\obj\x86\Debug\Import_CMDB.frmImport.resources
+E:\DieuVT\Tool BGT_V1.1\Tool BGT UAT\Tool_BGT\Import_CMDB\Import_CMDB\obj\x86\Debug\Import_CMDB.Properties.Resources.resources
+E:\DieuVT\Tool BGT_V1.1\Tool BGT UAT\Tool_BGT\Import_CMDB\Import_CMDB\obj\x86\Debug\Import_CMDB.csproj.GenerateResource.Cache
+E:\DieuVT\Tool BGT_V1.1\Tool BGT UAT\Tool_BGT\Import_CMDB\Import_CMDB\obj\x86\Debug\Import_CMDB.exe
+E:\DieuVT\Tool BGT_V1.1\Tool BGT UAT\Tool_BGT\Import_CMDB\Import_CMDB\obj\x86\Debug\Import_CMDB.pdb
+E:\DieuVT\Tool BGT_Production V1.1\Tool BGT UAT\Tool_BGT\Import_CMDB\Import_CMDB\bin\Debug\Import_CMDB.exe.config
+E:\DieuVT\Tool BGT_Production V1.1\Tool BGT UAT\Tool_BGT\Import_CMDB\Import_CMDB\obj\x86\Debug\Import_CMDB.exe
+E:\DieuVT\Tool BGT_Production V1.1\Tool BGT UAT\Tool_BGT\Import_CMDB\Import_CMDB\obj\x86\Debug\Import_CMDB.pdb
+E:\DieuVT\Tool BGT_Production V1.1\Tool BGT UAT\Tool_BGT\Import_CMDB\Import_CMDB\bin\Debug\Import_CMDB.exe
+E:\DieuVT\Tool BGT_Production V1.1\Tool BGT UAT\Tool_BGT\Import_CMDB\Import_CMDB\bin\Debug\Import_CMDB.pdb
+E:\DieuVT\Tool BGT_Production V1.1\Tool BGT UAT\Tool_BGT\Import_CMDB\Import_CMDB\obj\x86\Debug\Import_CMDB.frmImport.resources
+E:\DieuVT\Tool BGT_Production V1.1\Tool BGT UAT\Tool_BGT\Import_CMDB\Import_CMDB\obj\x86\Debug\Import_CMDB.Properties.Resources.resources
+E:\DieuVT\Tool BGT_Production V1.1\Tool BGT UAT\Tool_BGT\Import_CMDB\Import_CMDB\obj\x86\Debug\Import_CMDB.csproj.GenerateResource.Cache
+E:\DieuVT\Tool_Version_1.1\Tool BGT_Production V1.1\Tool BGT UAT\Tool_BGT\Import_CMDB\Import_CMDB\bin\Debug\Import_CMDB.exe.config
+E:\DieuVT\Tool_Version_1.1\Tool BGT_Production V1.1\Tool BGT UAT\Tool_BGT\Import_CMDB\Import_CMDB\obj\x86\Debug\Import_CMDB.exe
+E:\DieuVT\Tool_Version_1.1\Tool BGT_Production V1.1\Tool BGT UAT\Tool_BGT\Import_CMDB\Import_CMDB\obj\x86\Debug\Import_CMDB.pdb
+E:\DieuVT\Tool_Version_1.1\Tool BGT_Production V1.1\Tool BGT UAT\Tool_BGT\Import_CMDB\Import_CMDB\bin\Debug\Import_CMDB.exe
+E:\DieuVT\Tool_Version_1.1\Tool BGT_Production V1.1\Tool BGT UAT\Tool_BGT\Import_CMDB\Import_CMDB\bin\Debug\Import_CMDB.pdb
+E:\DieuVT\Tool_Version_1.1\Tool BGT_Production V1.1\Tool BGT UAT\Tool_BGT\Import_CMDB\Import_CMDB\obj\x86\Debug\Import_CMDB.csprojResolveAssemblyReference.cache
+E:\DieuVT\Tool_Version_1.1\Tool BGT_Production V1.1\Tool BGT UAT\Tool_BGT\Import_CMDB\Import_CMDB\obj\x86\Debug\Import_CMDB.frmImport.resources
+E:\DieuVT\Tool_Version_1.1\Tool BGT_Production V1.1\Tool BGT UAT\Tool_BGT\Import_CMDB\Import_CMDB\obj\x86\Debug\Import_CMDB.Properties.Resources.resources
+E:\DieuVT\Tool_Version_1.1\Tool BGT_Production V1.1\Tool BGT UAT\Tool_BGT\Import_CMDB\Import_CMDB\obj\x86\Debug\Import_CMDB.csproj.GenerateResource.Cache
